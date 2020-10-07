@@ -28,13 +28,15 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -48,11 +50,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602031008881</updated>
-      <workItem from="1602031010050" duration="89000" />
+      <workItem from="1602031010050" duration="1711000" />
+      <workItem from="1602032742641" duration="1517000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="220" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602033814460">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="557" y="220" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602033814460" />
+    <state x="832" y="367" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602032964441">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="832" y="367" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602032964441" />
+    <state x="883" y="332" key="FileChooserDialogImpl" timestamp="1602033812874">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="883" y="332" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1602033812874" />
   </component>
 </project>
