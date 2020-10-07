@@ -1,3 +1,9 @@
+/**
+ * Author: Jake Gonzales Lopez
+ * Assignment #: 1
+ * Repository: https://github.com/hgonz16/Assignment01
+ */
+
 package cse360assignment02;
 
 public class AddingMachine {
